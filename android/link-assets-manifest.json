@@ -1,0 +1,21 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "assets/fonts/Amaranth-Bold.ttf",
+      "sha1": "47b8b6d96dc4a528adfa7b98603d3b529f4a0d66"
+    },
+    {
+      "path": "assets/fonts/Amaranth-BoldItalic.ttf",
+      "sha1": "28261c500857992f5810ecd524541e33cf17989a"
+    },
+    {
+      "path": "assets/fonts/Amaranth-Italic.ttf",
+      "sha1": "6a69c85e18935d23459dbda8df4bce43afcd4ef9"
+    },
+    {
+      "path": "assets/fonts/Amaranth-Regular.ttf",
+      "sha1": "31183b9474598109c8a98de48f0dfbda02c117e2"
+    }
+  ]
+}
